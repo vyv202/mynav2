@@ -19,7 +19,7 @@ branch: main
 # 仓库必须自己提前创建，如果打算长期使用本软件，建议每个人都创建一个新的仓库作为图片存储
 # e.g 'https://github.com/xjh22222228/image?branch=main'
 # gitlab e.g 'https://gitlab.com/xjh22222228/image?branch=main&projectId=1001'
-imageRepoUrl: ''
+imageRepoUrl: 'https://github.com/vyv202/image?branch=main'
 
 # 只有GitHub pages用户需要设置为true， 其他建议设置为 false
 hashMode: true
@@ -28,13 +28,13 @@ hashMode: true
 address: ''
 
 # 自有部署后台登录密码
-password: admin
+password: vyvhaovyv123..
 
 # 自有部署启动端口
-port: 7777
+port: 5234
 
 # 收录通知邮箱
-email: ''
+email: '1@vyv.qzz.io'
 
 # 自有部署邮件通知系统
 mailConfig:
